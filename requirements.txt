@@ -1,6 +1,6 @@
-streamlit==0.88.0
-torch==1.9.0
-torchvision==0.10.0
-clip==1.0.0
-opencv-python==4.5.3.56
-Pillow==8.3.1
+streamlit
+torch
+torchvision
+clip
+opencv-python
+Pillow
